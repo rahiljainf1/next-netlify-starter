@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to my Fourty60 Infotech!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+        <a href="https://www.fourty60.com"> We are a Leading Website Designing and Search Engine Optimization(SEO) providers in Mumbai</a>.
         </p>
       </main>
 
